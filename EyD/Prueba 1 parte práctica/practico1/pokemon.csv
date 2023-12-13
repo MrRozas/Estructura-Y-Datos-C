@@ -1,0 +1,11 @@
+ID,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+1,Bulbasaur,Grass,Poison,318,45,49,49,65,65,45,1,False
+48,Venonat,Bug,Poison,305,60,55,50,40,55,45,1,False
+49,Venomoth,Bug,Poison,450,70,65,60,90,75,90,1,False
+131,Lapras,Water,Ice,535,130,85,80,85,95,60,1,False
+193,Yanma,Bug,Flying,390,65,65,45,75,45,95,2,False
+194,Wooper,Water,Ground,210,55,45,45,25,25,15,2,False
+205,Forretress,Bug,Steel,465,75,90,140,60,60,40,2,False
+212,ScizorMega Scizor,Bug,Steel,600,70,150,140,65,100,75,2,False
+228,Houndour,Dark,Fire,330,45,60,30,80,50,65,2,False
+251,Celebi,Psychic,Grass,600,100,100,100,100,100,100,2,False
